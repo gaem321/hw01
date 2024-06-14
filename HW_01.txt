@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <h1 style="color: rgb(117, 200, 255);">น.ส.ชุดา สาริพันธ์ ม.5/9 เลขที่36</h1>
+    
+    <p style="color:slategray">รูปที่</p>
+    <a href="https://www.w3schools.com/html/">
+    <img src="https://cdn.pixabay.com/photo/2024/05/26/10/15/bird-8788491_1280.jpg"alt="images" width="500" heigh="500"/>
+
+    <p style="color:slategray">รูปที่2</p>
+    <a href="https://www.facebook.com/">
+    <img src="https://cdn.pixabay.com/photo/2024/05/24/17/14/travel-8785493_960_720.jpg"alt="images" width="500" heigh="500"/>
+
+    <p style="color:slategray">รูปที่3</p>
+    <a href="https://github.com/">
+    <img src="https://cdn.pixabay.com/photo/2013/03/12/17/54/hurricane-92968_1280.jpg"alt="images" width="500" heigh="500"/>
+
+    <p style="color:slategray">รูปที่4</p>
+    <a href="https://www.youtube.com/">
+    <img src="https://cdn.pixabay.com/photo/2020/05/12/08/21/thistle-5161762_1280.jpg"alt="images" width="500" heigh="500"/>
+
+    <p style="color:slategray">รูปที่5</p>
+    <a href="https://www.w3schools.com/html/html_attributes.asp">
+    <img src="https://cdn.pixabay.com/photo/2022/08/05/20/23/hydrangeas-7367535_1280.jpg"alt="images" width="500" heigh="500"/>
+
+        
+<body>
+</head>
+ห
